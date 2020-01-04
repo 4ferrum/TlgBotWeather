@@ -1,4 +1,4 @@
-# Телеграм бот
+# погодный Телеграм бот
 import pyowm
 import telebot
 
