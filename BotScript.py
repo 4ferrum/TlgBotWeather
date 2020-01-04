@@ -1,4 +1,4 @@
-# Телеграм ботЫ
+# Телеграм бот
 import pyowm
 import telebot
 
